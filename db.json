@@ -1,4 +1,4 @@
-{  
+[  
   {
   "message": "Up and Running" ,  
   "status": "Active", 
@@ -16,6 +16,6 @@
   "status": "Active", 
   "server_id" : 3 ,
 }
-}
+] 
 
 
