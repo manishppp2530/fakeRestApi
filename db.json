@@ -2,19 +2,19 @@
   {
   "message": "Up and Running" ,  
   "status": "Active", 
-  "server_id" : 1
-  }
+  "server_id" : 1,
+  },
 
   {  
   "message": "Up and Running" ,  
   "status": "Active", 
-  "server_id" : 2 
-  }
+  "server_id" : 2 ,
+  },
   
   {  
   "message": "Up and Running" ,  
   "status": "Active", 
-  "server_id" : 3 
+  "server_id" : 3 ,
 }
 }
 
