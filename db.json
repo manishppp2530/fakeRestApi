@@ -6,8 +6,8 @@
       "server_id": 1
     },
     {
-      "message": "Up and Running",
-      "status": "Active",
+      "message": "Application is not running",
+      "status": "Non-Active",
       "server_id": 2
     },
     {
