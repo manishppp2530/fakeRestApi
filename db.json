@@ -3,7 +3,7 @@
         {
             "message": "Up and Running",
             "status": "Active",
-            "server_id": 1
+            "server_id": "Uchat_server"
         },
       
     ]
