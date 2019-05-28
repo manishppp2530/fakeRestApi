@@ -5,15 +5,6 @@
             "status": "Active",
             "server_id": 1
         },
-        {
-            "message": "Application is not running",
-            "status": "Non-Active",
-            "server_id": 2
-        },
-        {
-            "message": "Up and Running",
-            "status": "Active",
-            "server_id": 3
-        }
+      
     ]
 }
